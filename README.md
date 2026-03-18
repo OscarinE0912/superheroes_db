@@ -3,6 +3,6 @@
 Superheroes CRUD and Grades System made with Laravel 12.
 
 ## Author
-Your Name
+Oscar Eduardo Rivera López
 
-![Index](Chamoy.png)
+![Index](Chamoy.png)v
